@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Github, Instagram, Globe, Send } from 'lucide-react';
 
@@ -25,7 +26,8 @@ export default function Developer() {
           <div>
             <h2 className="text-2xl font-bold mb-4">Cybernaveen</h2>
             <p className="text-gray-600 dark:text-gray-300 mb-6">
-           Cybernaveen ethical hacker and python devdloper penetration tester
+              Cybernaveen is an ethical hacker, Python developer, and penetration tester.
+            </p>
             <div className="flex space-x-4">
               <a
                 href="https://github.com/naveenhacking"
