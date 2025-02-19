@@ -18,19 +18,17 @@ export default function Developer() {
       <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-8">
         <div className="flex flex-col md:flex-row items-center gap-8">
           <img
-            src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7"
+            src="https://media.licdn.com/dms/image/v2/C4D03AQGqUl231d6gJQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1660921925294?e=2147483647&v=beta&t=NLM96HjTEHrpk2ArgaivuI3xqRqpFa51Q3depnqvRoI"
             alt="Developer"
             className="w-48 h-48 rounded-full object-cover"
           />
           <div>
-            <h2 className="text-2xl font-bold mb-4">John Doe</h2>
+            <h2 className="text-2xl font-bold mb-4">Cybernaveen</h2>
             <p className="text-gray-600 dark:text-gray-300 mb-6">
-              Full-stack developer with a passion for creating beautiful and functional web applications.
-              Specialized in React, Node.js, and modern web technologies.
-            </p>
+           Cybernaveen ethical hacker and python devdloper penetration tester
             <div className="flex space-x-4">
               <a
-                href="https://github.com"
+                href="https://github.com/naveenhacking"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-full bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors"
@@ -38,7 +36,7 @@ export default function Developer() {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="https://instagram.com"
+                href="https://instagram.com/kgf_kgf_hackers"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-full bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors"
@@ -54,7 +52,7 @@ export default function Developer() {
                 <Send className="w-5 h-5" />
               </a>
               <a
-                href="https://example.com"
+                href="https://kgfhacker.blogspot.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-full bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors"
